@@ -1,0 +1,14 @@
+#+TITLE: centaur-tabs
+#+TAGS: layer|spacemacs|centaur-tabs
+
+** Description
+Centaur Tabs layer for Spacemacs
+
+** Install
+Assuming ~/.emacs.d is your emacs home:
+
+Install with ~git clone https://github.com/mattmc3/centaur-tabs-layer.git ~/.emacs.d/private/centaur-tabs~
+
+To use this configuration layer, add it to your =~/.spacemacs=. You will need to
+add =frame-geometry= to the existing =dotspacemacs-configuration-layers= list in this
+file.
